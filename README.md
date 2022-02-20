@@ -1,7 +1,7 @@
-# debuginfo-be
+# F3InfoBe
 A quick and dirty Spigot plugin to give F3-like debug info to [Geyser](https://github.com/GeyserMC/Geyser) clients
 
-[Download](https://github.com/Heath123/debuginfo-be/releases/latest)
+[Download](https://github.com/SyzuTopia54y/F3InfoBe/releases/latest)
 
 ### Usage
 
