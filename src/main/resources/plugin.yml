@@ -1,0 +1,8 @@
+name: F3Info
+version: 1.0.0
+main: com.gmail.syzu.f3infobe.F3InfoBe
+api-version: 1.16
+commands:
+  f3:
+    description: Toggles the debug menu
+    usage: /f3
